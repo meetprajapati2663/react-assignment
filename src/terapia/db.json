@@ -1,0 +1,66 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Subadmin",
+      "email": "subadmin@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "meet",
+      "email": "meet1@gmail.com",
+      "password": "123456",
+      "status": "unblock"
+    },
+    {
+      "id": "2",
+      "name": "pratick",
+      "email": "pratick@gmail.com",
+      "password": "123456",
+      "status": "block"
+    },
+    {
+      "id": "3",
+      "name": "shubham",
+      "email": "shubham@gmail.com",
+      "password": "1234",
+      "status": "unblock"
+    },
+    {
+      "id": "1759731532431",
+      "email": "sujal@gmail.com",
+      "name": "sujal",
+      "password": "1234",
+      "status": "unblock"
+    }
+  ],
+  "service": [
+    {
+      "id": "1",
+      "name": "Physiotherapy",
+      "desc": "this is first product service",
+      "image": "https://media.istockphoto.com/id/2209516400/photo/man-relaxing-during-back-massage-at-the-spa.jpg?b=1&s=612x612&w=0&k=20&c=LcEgxOJmg2XFa2VaDCfI7hCdb1litviM9-I6IpeoDz4="
+    },
+    {
+      "id": "3",
+      "name": "Message Therapy ",
+      "desc": "Dolor, sit amet consectetur adipisicing elit. Soluta inventore cum accusamus, dolor qui ullam",
+      "image": "https://images.pexels.com/photos/14256889/pexels-photo-14256889.jpeg?_gl=1*1o9gszq*_ga*OTgxMzcxNzg3LjE3NTE4ODEzNTk.*_ga_8JE65Q40S6*czE3NTg3Nzk0NDEkbzIwJGcxJHQxNzU4Nzc5NzIwJGo2MCRsMCRoMA.."
+    },
+    {
+      "id": "1758867343538",
+      "name": "Thai terapia",
+      "desc": "This Thai terapi solve",
+      "image": "https://media.istockphoto.com/id/123376184/photo/traditional-indian-ayurvedic-oil-foot-massage.jpg?b=1&s=612x612&w=0&k=20&c=xyQuj01pEeT0_otcQDc58i4FwBavGhR8hJktVk-SQYA="
+    }
+  ]
+}
